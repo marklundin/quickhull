@@ -75,7 +75,7 @@ window.onload = function(){
 	///
 
 
-	var NUM_VERTS 	= isStatic ? 2000 : 100,
+	var NUM_VERTS 	= isStatic ? 3000 : 100,
 		RADIUS 		= 200,
 		SPEED 		= 0.01,
 		vertices 	= [],
